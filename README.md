@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-JobzMall is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.jobzmall.com/
+JobzMall is a video‑first talent marketplace that connects job seekers and employers through interactive video resumes and interviews. It aims to make the job‑finding process enjoyable, engaging and accessible for everyone, offering tools for creating video resumes, browsing opportunities, and hiring via video interviews.
+
+**Areas:** Company · video · talent · marketplace · hiring · resumes
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.jobzmall.com/)
+- [Documentation](https://help.jobzmall.com/)
+- [Getting started](https://help.jobzmall.com/en/getting-started)
+- [Pricing](https://www.jobzmall.com/employers/pricing)
+- [Support](https://help.jobzmall.com)
+- [Blog](https://blog.jobzmall.com)
+- [Security](https://www.jobzmall.com/security)
+- [Compliance](https://trust.jobzmall.com/)
+- [Terms of service](https://app.jobzmall.com/legal/terms)
+- [Privacy policy](https://app.jobzmall.com/legal/privacy)
+- [Status](https://status.jobzmall.com)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/jobzmall/](https://apis.io/providers/jobzmall/).
